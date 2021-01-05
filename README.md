@@ -1,6 +1,6 @@
 # HTML-CSS-To-Do-List
 
-- [To-Do-List image](Screenshot.png)
+<img src="Screenshot.png" width="450" height="auto">
 
 ### Technologies used:
 * HTML
